@@ -1,0 +1,6 @@
+[package]
+name = "connectfour"
+version = "0.1.0"
+authors = ["Riyadh Rahman <laplaceon@gmail.com>"]
+
+[dependencies]
